@@ -21,9 +21,9 @@
 <details open>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;🤖 AI (1)</summary>
 
-| # | Name          | Provider                            | Provider Link                                                                             | Certificates                               |
-|---|---------------|-------------------------------------|-------------------------------------------------------------------------------------------|--------------------------------------------|
-| 1 | Google Gen AI | ![Google Cloud][badge-google-cloud] | [Verify ↗](https://www.credly.com/badges/7fa899bf-331c-464d-8f8d-6c0a330e6b14/public_url) | [View 📄](./certificates/cloud-leader.pdf) |
+| # | Name          | Provider                            | Provider Link                                                                             | Certificates                                                |
+|---|---------------|-------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| 1 | Google Gen AI | ![Google Cloud][badge-google-cloud] | [Verify ↗](https://www.credly.com/badges/7fa899bf-331c-464d-8f8d-6c0a330e6b14/public_url) | [View 📄](./doc/images/certifications/googleCloud_Gail.png) |
 
 </details>
 
