@@ -21,8 +21,8 @@
 <details open>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;🤖 AI (1)</summary>
 
-| # | Name                 | Provider                            | Provider Link                                                                                  | Certificates                                                      |
-|---|----------------------|-------------------------------------|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| # |         Name         |              Provider               |                                      Provider Credential                                       |                             Document                              |
+|:-:|:--------------------:|:-----------------------------------:|:----------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------:|
 | 1 | Generative AI Leader | ![Google Cloud][badge-google-cloud] | [🌐 Official ↗](https://www.credly.com/badges/7fa899bf-331c-464d-8f8d-6c0a330e6b14/public_url) | [📄 Attachment](./doc/images/certifications/googleCloud_Gail.png) |
 
 </details>
