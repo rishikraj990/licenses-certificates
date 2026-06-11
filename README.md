@@ -14,7 +14,7 @@
 ---
 
 <a id = "certifications"></a>
-<details open>
+<details open markdown="1">
 <summary>🏅 Certifications (1)</summary>
 <blockquote markdown="1">
 
