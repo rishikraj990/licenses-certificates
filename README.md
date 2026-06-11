@@ -14,11 +14,11 @@
 ---
 
 <a id = "certifications"></a>
-<details open markdown="1">
+<details open>
 <summary>🏅 Certifications (1)</summary>
-<blockquote markdown="1">
+<blockquote>
 
-<details open markdown="1">
+<details open>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;🤖 AI (1)</summary>
 
 | # |         Name         |              Provider               |                                      Provider Credential                                       |                             Document                              |
