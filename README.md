@@ -1,11 +1,6 @@
-
-<div style="text-align:center;">
-
 # 🎓 Licenses & Certifications
 
 > A curated list of my professional certifications, licenses and learning achievements.
-
-</div>
 
 ---
 
@@ -20,13 +15,13 @@
 
 <a id = "certifications"></a>
 <details open>
-<summary><b>🏅 Certifications (1)</b></summary>
+<summary>🏅 Certifications (1)</summary>
 <blockquote>
 
 <details open>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;🤖 AI (1)</summary>
 
-<!-------------------- MD Flavour Table don't work in GitHub pages inside details and blockquote tag -------------------->
+<!-------------------- MD Flovour Table don't work in GitHub pages inside details and blockquote tag -------------------->
 <!---
 | # |         Name         |              Provider               |                                      Provider Credential                                       |                             Document                              |
 |:-:|:--------------------:|:-----------------------------------:|:----------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------:|
