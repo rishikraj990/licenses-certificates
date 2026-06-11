@@ -16,17 +16,15 @@
 <a id = "certifications"></a>
 <details open>
 <summary>🏅 Certifications (1)</summary>
-<blockquote>
+<blockquote markdown="1">
 
-<details open>
+<details open markdown="1">
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;🤖 AI (1)</summary>
-<div  markdown="1">
 
 | # |         Name         |              Provider               |                                      Provider Credential                                       |                             Document                              |
 |:-:|:--------------------:|:-----------------------------------:|:----------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------:|
 | 1 | Generative AI Leader | ![Google Cloud][badge-google-cloud] | [🌐 Official ↗](https://www.credly.com/badges/7fa899bf-331c-464d-8f8d-6c0a330e6b14/public_url) | [📄 Attachment](./doc/images/certifications/googleCloud_Gail.png) |
 
-</div>
 </details>
 
 </blockquote>
