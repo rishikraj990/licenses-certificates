@@ -16,11 +16,11 @@
 <a id = "certifications"></a>
 <details open>
 <summary>🏅 Certifications (1)</summary>
-<div style="border-left: 4px solid #ccc; margin-left:1em; padding-left: 1em;">
+<blockquote>
 
 <details open>
 <summary>&nbsp;&nbsp;&nbsp;&nbsp;🤖 AI (1)</summary>
-<div markdown="1">
+<div  markdown="1">
 
 | # |         Name         |              Provider               |                                      Provider Credential                                       |                             Document                              |
 |:-:|:--------------------:|:-----------------------------------:|:----------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------:|
@@ -29,7 +29,7 @@
 </div>
 </details>
 
-</div>
+</blockquote>
 </details>
 
 ---
